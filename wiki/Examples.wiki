@@ -2,7 +2,7 @@
 
 The best way to learn to use gwt-touch is to check out our sample applications.
 
-Also, we would love to provide some real-world examples of gwt-touch being used on real projects. If you are using gwt-touch and would like to be featured on this page please contact [http://twitter.com/bradrydzewski @bradrydzewski].  
+Also, we would love to provide some real-world examples of gwt-touch being used on real projects. If you are using gwt-touch and would like to be featured on this page please contact [http://twitter.com/bradrydzewski @bradrydzewski] or [http://twitter.com/egosumcarlitos @egosumcarlitos].  
 
 =Samples=
 
