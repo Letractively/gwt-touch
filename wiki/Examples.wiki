@@ -1,2 +1,11 @@
 #summary Example applications built using gwt-touch
 
+The best way to learn to use gwt-touch is to check out our sample applications.
+
+=Samples=
+[http://gwt-touch.brad-rydzewski.appspot.com iPad Settings Demo]
+A clone of the iPad's Settings application using gwt-touch. Features used include:
+<li>List View</li>
+<li>Form View</li>
+<li>Transitions</li>
+<li>MVP Integration</li>
