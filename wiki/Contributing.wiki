@@ -13,4 +13,4 @@ Interested in helping out? This is our wish list of features:
   * Perfect the scrolling algorithm: add "snap back"
   * Create Date Picker and a Time Picker widgets
   * Create a Rating widget. See [http://developer.android.com/resources/tutorials/views/images/hello-formstuff.png Android example]
-  * Create a "CardLayout" where you can swipe left / right to change the visible panel. Include a page indicator, [http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/UIElementGuidelines/UIElementGuidelines.html#//apple_ref/doc/uid/TP40006556-CH13-SW2 see iOS docs].
+  * Create a `CardLayout` where you can swipe left / right to change the visible panel. Include a page indicator, [http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/UIElementGuidelines/UIElementGuidelines.html#//apple_ref/doc/uid/TP40006556-CH13-SW2 see iOS docs].
