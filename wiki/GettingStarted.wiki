@@ -1,13 +1,18 @@
 #summary Getting started with gwt-touch
 
-= Introduction =
+= Configuration =
 
-Add your content here.
+Include the gwt-touch jar file in your project, and inherit the toolkit in your application's module.xml file:
+{{{
+  <inherits name="com.googlecode.gwttouch.Touch"/>
+}}}
 
 
-= Details =
+We also recommend that you only compile for Safari, since both Android and iOS use the underlying webkit engine:
+{{{
+  <set-property name="user.agent" value="safari"/>
+}}}
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Hello World =
+
+_coming soon_
