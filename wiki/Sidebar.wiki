@@ -1,15 +1,15 @@
 <div>*Introduction*</div>
- * [Overview Overview]
- * Getting Started
- * Examples
+<div>[Overview Overview]</div>
+<div>Getting Started</div>
+<div>Examples</div>
 
 <div>*UI Reference*  <font color='green' size='small'>_coming soon_</font></div>
- * Widgets
- * List View
- * Menu View
- * Form View
- * Transitions
+<div>Widgets</div>
+<div>List View</div>
+<div>Menu View</div>
+<div>Form View</div>
+<div>Transitions</div>
 
 <div>*Resources*  <font color='green' size='small'>_coming soon_</font></div>
- * Contributing
- * Javadoc 
+<div>Contributing</div>
+<div>Javadoc </div>
