@@ -1,4 +1,4 @@
-<div>*Introduction*</div>
+*Introduction*
  * [Overview Overview]
  * Getting Started
  * Data Structures
@@ -7,7 +7,7 @@
    * Form View
  * Transitions
 
-<div>*Resources*</div>
+*Resources*
  * Contributing
  * Widget List
  * Javadoc
