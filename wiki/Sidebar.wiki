@@ -8,7 +8,7 @@
  * Transitions
 
 
-<div>*Resources*</div>
+
  * Contributing
  * Widget List
  * Javadoc
