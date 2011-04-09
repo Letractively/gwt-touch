@@ -1,7 +1,7 @@
 <div>*Introduction*</div>
-<div>[Overview?tm=6 Overview]</div>
-<div>[GettingStarted?tm=6 Getting Started]</div>
-<div>[Examples?tm=6 Examples]</div>
+<div>[http://code.google.com/p/gwt-touch/wiki/Overview?tm=6 Overview]</div>
+<div>[http://code.google.com/p/gwt-touch/wiki/GettingStarted?tm=6 Getting Started]</div>
+<div>[http://code.google.com/p/gwt-touch/wiki/Examples?tm=6 Examples]</div>
 
 <div>*UI Reference*  <font color='green' size='small'>_coming soon_</font></div>
 <div>Widgets</div>
