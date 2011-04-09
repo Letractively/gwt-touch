@@ -3,9 +3,11 @@
  * Getting Started
  * Data Structures
    * List View
-   * <div>Menu View
-   * <div>Form View
+   * Menu View
+   * Form View
  * Transitions
+
+<div>*Resources*</div>
  * Contributing
  * Widget List
  * Javadoc
