@@ -6,7 +6,7 @@ The best way to learn to use gwt-touch is to check out our sample applications.
 
 <table border="0" width="700px">
 <tr>
-<td valign="top" width="260px"><img src="http://gwt-touch.googlecode.com/svn/wiki/demo-settings-01.png" width="250px"/></td>
+<td valign="top" width="265px"><img src="http://gwt-touch.googlecode.com/svn/wiki/demo-settings-01.png" width="250px"/></td>
 <td valign="top"><font size="5em">[http://gwt-touch.brad-rydzewski.appspot.com iPad Settings Sample]</font><br/>
 A clone of the iPad's Settings application using gwt-touch. If you use GWT's internal MVP framework, this demo is for you.<br/>Features used include:
 <li>List View</li>
@@ -18,4 +18,3 @@ A clone of the iPad's Settings application using gwt-touch. If you use GWT's int
 </td>
 </tr>
 </table>
-
