@@ -2,10 +2,10 @@
 <div>[Overview Overview]</div>
 <div>Getting Started</div>
 
-<div>Data Structures</div>
- * <div>List View</div>
- * <div>Menu View</div>
- * <div>Form View</div>
+* Data Structures
+ * List View
+ * <div>Menu View
+ * <div>Form View
 <div>Transitions</div>
 
 
