@@ -1,6 +1,18 @@
 <div>*Introduction*</div>
 <div>[Overview Overview]</div>
-<div>Making gwt-touch Better</div>
+<div>Getting Started</div>
+
+<div>Data Structures</div>
+ * <div>List View</div>
+ * <div>Menu View</div>
+ * <div>Form View</div>
+<div>Transitions</div>
+
+
+<div>*Resources*</div>
+<div>Contributing</div>
+<div>Widget List</div>
+<div>Javadoc</div>
 
 <div>*Examples*</div>
 <div>[iPadSettingsDemo iPad Settings Demo]</div>
