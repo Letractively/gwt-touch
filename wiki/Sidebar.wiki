@@ -1,7 +1,9 @@
 <div>*Introduction*</div>
+<ul>
 <li>[Overview Overview]</li>
 <li>Getting Started</li>
 <li>Examples</li>
+</ul>
 
 <div>*UI Reference*  <font color='green' size='small'>_coming soon_</font></div>
 <div>Widgets</div>
