@@ -6,9 +6,6 @@
    * <div>Menu View
    * <div>Form View
  * Transitions
-
-
-
  * Contributing
  * Widget List
  * Javadoc
