@@ -1,17 +1,15 @@
 <div>*Introduction*</div>
  * [Overview Overview]
  * Getting Started
- * Data Structures
-   * List View
-   * Menu View
-   * Form View
+ * Examples
+
+<div>*UI Reference*<font color='green' size='small'>_coming soon_</font></div>
+ * Widgets
+ * List View
+ * Menu View
+ * Form View
  * Transitions
 
-<div>*Resources*</div>
+<div>*Resources*<font color='green' size='small'>_coming soon_</font></div>
  * Contributing
- * Widget List
- * Javadoc
-
-<div>*Examples*</div>
- * [iPadSettingsDemo iPad Settings Demo]
- * iPad Contacts Demo <font color='green' size='small'>_coming soon_</font>
+ * Javadoc 
