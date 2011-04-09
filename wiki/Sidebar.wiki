@@ -1,7 +1,7 @@
 <div>*Introduction*</div>
 <div>[Overview Overview]</div>
-<div>Getting Started</div>
-<div>Examples</div>
+<div>[GettingStarted Getting Started]</div>
+<div>[Examples Examples]</div>
 
 <div>*UI Reference*  <font color='green' size='small'>_coming soon_</font></div>
 <div>Widgets</div>
@@ -11,5 +11,5 @@
 <div>Transitions</div>
 
 <div>*Resources*  <font color='green' size='small'>_coming soon_</font></div>
-<div>Contributing</div>
+<div>[Contributing Contributing]</div>
 <div>Javadoc </div>
