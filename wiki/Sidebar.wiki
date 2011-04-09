@@ -11,5 +11,5 @@
 <div>Transitions</div>
 
 <div>*Resources*  <font color='green' size='small'>_coming soon_</font></div>
-<div>[Contributing Contributing]</div>
+<div>[http://code.google.com/p/gwt-touch/wiki/Contributing?tm=6 Contributing]</div>
 <div>Javadoc </div>
