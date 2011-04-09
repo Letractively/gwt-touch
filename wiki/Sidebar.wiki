@@ -2,5 +2,5 @@
 [Overview Overview]
 
 <div>*Demos*</div>
-iPad Settings Demo
-iPad Contacts Demo
+<div>iPad Settings Demo</div>
+<div>iPad Contacts Demo</div>
