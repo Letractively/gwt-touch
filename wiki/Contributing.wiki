@@ -1,7 +1,4 @@
 #summary Contributing to gwt-touch
-
-= Introduction =
-
 If you wish to contribute please get in touch with the project owners: [http://twitter.com/bradrydzewski Brad Rydzewski] or [http://twitter.com/egosumcarlitos Carlos Morales].
 
 If you create a patch, keep it simple, comment the code, and strive for that "native" user experience.
