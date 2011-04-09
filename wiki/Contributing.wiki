@@ -5,9 +5,12 @@
 Add your content here.
 
 
-= Details =
+= Wish List =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Interested in helping out? This is our wish list of features:
+  * Perfect the scrolling algorithm: add momentum
+  * Perfect the scrolling algorithm: add resistance
+  * Perfect the scrolling algorithm: add "snap back"
+
+  * Create Date Picker and a Time Picker widgets
+  * Create a Rating widget. See [http://developer.android.com/resources/tutorials/views/images/hello-formstuff.png Android example]
