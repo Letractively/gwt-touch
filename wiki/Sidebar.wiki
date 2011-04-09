@@ -3,13 +3,13 @@
  * Getting Started
  * Examples
 
-<div>*UI Reference*<font color='green' size='small'>_coming soon_</font></div>
+<div>*UI Reference* &nbsp;<font color='green' size='small'>_coming soon_</font></div>
  * Widgets
  * List View
  * Menu View
  * Form View
  * Transitions
 
-<div>*Resources*<font color='green' size='small'>_coming soon_</font></div>
+<div>*Resources* &nbsp;<font color='green' size='small'>_coming soon_</font></div>
  * Contributing
  * Javadoc 
