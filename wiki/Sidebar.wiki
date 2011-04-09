@@ -2,5 +2,5 @@
 [Overview Overview]
 
 <div>*Demos*</div>
-<div>iPad Settings Demo</div>
-<div>iPad Contacts Demo</div>
+<div>[iPadSettingsDemo iPad Settings Demo]</div>
+<div>iPad Contacts Demo <font color='green' size='small'>_coming soon_</font></div>
