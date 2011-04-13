@@ -8,7 +8,7 @@
 <div>[http://code.google.com/p/gwt-touch/wiki/ListView?tm=6 List View]</div>
 <div>Menu View</div>
 <div>Form View</div>
-<div>[ttp://code.google.com/p/gwt-touch/wiki/Transitions?tm=6 Transitions]</div>
+<div>[http://code.google.com/p/gwt-touch/wiki/Transitions?tm=6 Transitions]</div>
 
 <div>*Resources*  <font color='green' size='small'>_coming soon_</font></div>
 <div>[http://code.google.com/p/gwt-touch/wiki/Contributing?tm=6 Contributing]</div>
