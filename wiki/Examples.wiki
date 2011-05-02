@@ -13,7 +13,7 @@ Also, we would love to provide some real-world examples of gwt-touch being used 
 <td valign="top"><font size="5em">[http://gwt-touch-demos.appspot.com iPad Settings Sample]</font>
 
 A clone of the iPad's Settings application using gwt-touch. If you use GWT's built-in MVP framework, this demo is for you.
-<div>[http://gwt-touch.brad-rydzewski.appspot.com Live Demo]</div>
+<div>[http://gwt-touch-demos.appspot.com Live Demo]</div>
 <div>[http://code.google.com/p/gwt-touch/source/browse/#svn%2Ftrunk%2Fdemo-ipad-settings Source Code]</div>
 
 Features used include:
